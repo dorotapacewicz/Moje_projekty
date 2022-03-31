@@ -1,2 +1,2 @@
-# Moje_projekty
-Projekty, które zrealizowałam podczas szkolenia
+# My_projects
+
